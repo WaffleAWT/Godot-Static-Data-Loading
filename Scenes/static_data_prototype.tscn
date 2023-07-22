@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://sv653ys4u0qs"]
+
+[ext_resource type="Script" path="res://Scripts/static_data_prototype.gd" id="1_45amf"]
+
+[node name="StaticDataPrototype" type="Node"]
+script = ExtResource("1_45amf")
